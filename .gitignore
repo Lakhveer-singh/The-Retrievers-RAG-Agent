@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[codz]
+*$py.class
+.venv/
+
+# Environment
+.env
+
+# Data (uploaded to Teams, not GitHub)
+data/
+
+# FAISS index and chunks
+*.faiss
+chunks.json
+
+# OS
+.DS_Store
+Thumbs.db

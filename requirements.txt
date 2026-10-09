@@ -1,0 +1,9 @@
+gradio
+requests
+python-dotenv
+faiss-cpu
+numpy
+tiktoken
+openai
+simpleeval
+mcp
